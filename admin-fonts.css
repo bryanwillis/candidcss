@@ -33,6 +33,12 @@
  * -----------------------------------------------------------------------------
  */
 
+.wrap h2{ font-family: 'Verizon Apex',arial,helvetica,sans-serif!important; font-size: 25px!important;
+font-weight: 300 !important; color:#6d6e71; font-style: italic;
+ }
+.welcome-panel h3{ font-family: 'Verizon Apex',arial,helvetica,sans-serif!important;
+font-weight: 300 !important;
+ }
 
 
 
