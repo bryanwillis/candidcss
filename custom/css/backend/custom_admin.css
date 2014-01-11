@@ -322,6 +322,7 @@ border: 1px solid #888 !important;
 vertical-align: middle;
 display: inline;
 margin-top: -4px;
-max-width: 26px !important;
+max-width: 25px !important;
+border-radius:2px;
 }
 
