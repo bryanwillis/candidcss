@@ -315,5 +315,11 @@ background: rgba(68, 68, 68, 0) !important;
 
 .welcome-panel-close {display:none !important;}
 
-
+#wp-admin-bar-candid-site-name .avatar.avatar-64.photo {
+border-color: #FFFFFF;
+background-color: #FFFFFF !important;
+border: 1px solid #888 !important;
+vertical-align: middle;
+display: inline;
+}
 
