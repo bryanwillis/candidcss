@@ -129,3 +129,191 @@ display: none;
 .wp-admin.index-php .su-tabs {
 margin: 0px !important;}
 
+
+
+
+
+
+[for="wp_welcome_panel-hide"] {display: none !important;}
+
+
+.sf-button.standard.accent.standard { padding: 14px 16px;
+background-color: #dd3333;
+color: #ffffff;
+line-height: 18px;
+margin: 0 10px 20px 0;
+font-size: 12px;}
+
+#wpadminbar #wp-admin-bar-my-item .ab-icon:before {
+content: '\f132';
+}
+
+
+.sf-button.standard.accent.standard {
+padding: 14px 16px !important;}
+
+
+div.wrap h2:first {visibility:hidden;}
+
+
+
+#adminmenu li.menu-top a.menu-top > .wp-menu-image img
+{display: none !important;}
+
+#adminmenu li.menu-top a.menu-top 
+{box-shadow: none !important; -webkit-box-shadow: none !important;}
+
+.wp-not-current-submenu.toplevel_page_my-shortcodes
+{box-shadow: none !important; -webkit-box-shadow: none !important;}
+
+#adminmenu li.menu-top a.menu-top > .wp-menu-image
+{background: none !important;}
+
+
+#wpadminbar #wp-admin-bar-my-item .ab-icon:before {
+content: '\f132';
+}
+
+#toplevel_page_snippets > a > div.wp-menu-image:before {
+content: '\f132';
+}
+
+
+.icon-linkedin-sign:before {
+color: rgb(24, 114, 197);
+}
+
+.icon-twitter:before {
+color: rgb(63, 197, 223);
+}
+.icon-facebook:before {
+color: rgb(19, 90, 197)
+}
+
+
+.icon-google-plus-sign:before {
+color: red;
+}
+
+
+.icon-facebook-sign:before {
+color: rgb(43, 71, 214);
+}
+
+
+
+
+
+#wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4
+{width:25%;}
+
+#dashboard-widgets #postbox-container-3 .empty-container, #dashboard-widgets #postbox-container-4 .empty-container {
+border: 3px dashed #bbb;
+height: 250px;
+min-height: 100px;
+}
+
+
+
+media="all"
+@media only screen and (max-width: 1499px) and (min-width: 800px)
+#wpbody #wpbody-content .metabox-holder.columns-1 .postbox-container .empty-container {
+border: 3px dashed #bbb;
+height: 250px;
+min-height: 100px;
+}
+
+
+
+#wpbody #wpbody-content .metabox-holder.columns-1 .postbox-container .empty-container {
+border: 3px dashed #bbb !important;
+height: 250px !important;
+min-height: 100px !important;
+}
+
+media="all"
+@media only screen and (max-width: 1499px) and (min-width: 800px)
+#wpbody #wpbody-content .metabox-holder.columns-1 .postbox-container .empty-container {
+border: 3px dashed #bbb;
+height: 250px;
+min-height: 100px;
+}
+
+
+
+
+#wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4 {
+width: 25.5%;
+}
+
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
+width: 49%;
+}
+
+
+
+#postbox-container-2 {
+width: 50.5% !important;
+}
+
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
+width: 49.5%;
+}
+
+#postbox-container-4, #postbox-container-3 {
+width: 25% !important;
+}
+
+
+.max-upload-size, .upload-flash-bypass {display:none;}
+
+.postbox {min-width: 0px;}
+
+p.upload-flash-bypass {display:none !important;}
+
+#user-avatar-display {
+top: 450px !important;}
+
+
+
+
+
+.index-php .drag-drop #drag-drop-area {
+border: 4px dashed #E0E0E0 !important;
+background-image: url('http://candidbusiness.com/wp-content/uploads/animate_images.png');
+background-repeat: no-repeat;
+background-position: center;
+background-position-y: 200px;
+height: 350px !important;
+}
+
+
+
+#dashboard-widgets-wrap .columns-3 #postbox-container-4 .empty-container {
+border: 3px dashed #bbb !important ;
+}
+
+
+
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-3, #wpbody-content #dashboard-widgets.columns-3 #postbox-container-4 {
+float: right;
+width: 24.5% !important;
+}
+
+
+
+.js #dashboard_quick_press .drafts {
+border-top: 1px solid #eee;
+background-color: #fafafa;
+}
+
+
+#wp-admin-bar-candid-adminsearch .ab-item.ab-empty-item, #wp-admin-bar-candid-adminsearch .ab-item.ab-empty-item:hover {
+background: rgba(68, 68, 68, 0) !important;
+}
+
+
+.welcome-panel-close {display:none !important;}
+
+
+
