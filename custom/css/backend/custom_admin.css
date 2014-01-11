@@ -242,25 +242,25 @@ min-height: 100px;
 
 
 
-#wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4 {
+.index-php #wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4 {
 width: 25.5%;
 }
 
-#wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
+.index-php #wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
 width: 49%;
 }
 
 
 
-#postbox-container-2 {
+.index-php #postbox-container-2 {
 width: 50.5% !important;
 }
 
-#wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
+.index-php #wpbody-content #dashboard-widgets.columns-3 #postbox-container-1 {
 width: 49.5%;
 }
 
-#postbox-container-4, #postbox-container-3 {
+.index-php #postbox-container-4, #postbox-container-3 {
 width: 25% !important;
 }
 
