@@ -1,0 +1,23 @@
+Array
+(
+    [installed] => on
+    [version] => 101
+    [functions_enabled] => on
+    [functions_path] => content/custom/php/frontend
+    [admin_functions_enabled] => on
+    [admin_functions_path] => content/custom/php/backend
+    [common_functions_enabled] => on
+    [common_functions_path] => content/custom/php/global
+    [scripts_enabled] => on
+    [scripts_path] => wp-content/custom/js/frontend
+    [admin_scripts_enabled] => on
+    [admin_scripts_path] => wp-content/custom/js/backend
+    [common_scripts_enabled] => on
+    [common_scripts_path] => wp-content/custom/js/global
+    [css_enabled] => on
+    [css_path] => wp-content/custom/css/frontend
+    [admin_css_enabled] => on
+    [admin_css_path] => wp-content/custom/css/backend
+    [common_css_enabled] => on
+    [common_css_path] => wp-content/custom/css/common
+)

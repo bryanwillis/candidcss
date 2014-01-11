@@ -1,0 +1,11 @@
+#section.header-6,
+#header-sticky-wrapper.
+#header,
+#logo,
+.header-right,
+.search-nav.std-menu,
+#main-navigation {
+height: 75px !important;
+line-height:75px !important;
+
+}

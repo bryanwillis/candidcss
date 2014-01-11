@@ -1,0 +1,131 @@
+/*Dashboard Metabox - Media Upload*/
+.wp-admin.index-php #quickupload.postbox .inside h2 {
+display:none
+}
+.wp-admin.index-php #quickupload.postbox .inside .upload-flash-bypass {
+display: none;
+}
+.wp-admin.index-php #quickupload.postbox .inside .max-upload-size {
+display: none;
+}
+.wp-admin.index-php #quickupload.postbox .wrap {
+margin: 10px 2px 0 2px;
+}
+/* Media Upload - only when no metabox h2 bottom border*/
+.media-upload-form {
+margin-top: 0px;
+}
+
+.wp-admin.index-php #quickupload.postbox input {
+width: 130px;
+}
+
+
+
+.wp-admin.index-php #dashboard-widgets #quickupload.postbox textarea {
+width: 160px;
+}
+
+
+
+.wp-admin.index-php #dashboard-widgets #quickupload.postbox form .submit {
+margin: 0;
+margin-left: 250px;
+margin-top: 10px;
+}
+
+
+
+
+
+
+
+/*Dashboard General*/
+.postbox h3, #namediv h3, #submitdiv h3, #dashboard_recent_comments .comment {
+color: #B6B6B6;
+font-size: 1.4em;
+border-bottom: 1px solid #FFF;
+}
+.js .sidebar-name:hover h3, .js .postbox h3:hover {
+color: #B6B6B6;
+}
+
+
+
+
+#simple_history_dashboard_widget .simple-history-tablenav .tablenav-pages {
+text-align: center;
+}
+
+
+
+#simple_history_dashboard_widget .wrap.simple-history-wrap.simple-history-is-ready.simple-history-has-items {
+margin: 10px 2px 0 2px;
+}
+
+
+
+
+
+
+
+.wp-admin.settings_page_widgets_view_custom DIV[id="wpfooter"]:nth-child(5),
+.wp-admin.settings_page_widgets_view_custom #postbox-container-2:nth-child(2),
+.wp-admin.settings_page_widgets_view_custom [id="postbox-container-1"]:nth-child(1)>P:nth-child(6),
+.wp-admin.settings_page_widgets_view_custom [id="postbox-container-1"]:nth-child(1)>P:nth-child(5) {
+display:none;
+}
+
+
+
+
+
+.wp-admin.media-new-php p.upload-flash-bypass, .wp-admin.media-new-php span.max-upload-size
+{display:none;}
+
+
+
+.settings_page_codepress-admin-columns .cta {display: none;}
+.settings_page_codepress-admin-columns #plugin-support {display: none;}
+
+
+/*ADMIN SEARCH PAGE*/
+.wp-admin.admin_page_search:not(.role-administrator) a[href="#result-comments"],
+.wp-admin.admin_page_search:not(.role-administrator) #result-comments,
+.wp-admin.admin_page_search:not(.role-administrator) #result-plugins {display:none !important;}
+
+
+
+
+.drag-drop #drag-drop-area {
+border: 4px dashed #bbb;
+height: 400px;
+}
+
+
+
+
+
+
+.wp-admin.index-php DIV[id="screen-meta"] DIV[id="screen-options-wrap"] FORM[id="adv-settings"]>H5[class="screen-layout"]:nth-child(3)
+{display: none;
+}
+.wp-admin.index-php #screen-meta form#adv-settings>div.columns-prefs {
+display: none;
+}
+
+
+
+
+
+.plugin-details {display:none;}
+
+
+
+
+#dashboard-widgets #simple_history_dashboard_widget .wrap simple-history-wrap simple-history-is-ready simple-history-has-items {margin:0;}
+
+
+.wp-admin.index-php .su-tabs {
+margin: 0px !important;}
+
