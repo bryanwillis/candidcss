@@ -326,3 +326,8 @@ max-width: 25px !important;
 border-radius:3px;
 }
 
+
+#dws_dashboard_widget_shortcodes-ultimate-2 .handlediv,
+#dws_dashboard_widget_shortcodes-ultimate-2 .hndle
+{display:none !important;}
+
