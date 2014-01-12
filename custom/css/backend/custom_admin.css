@@ -435,3 +435,6 @@ media="all"
 margin: 39px 90px 90px;
 }
 }
+
+
+#wpcontent, #wpfooter {margin-left::margin-right:90px;}
