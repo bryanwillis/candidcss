@@ -414,3 +414,10 @@ height: 42px;
 
 
 .sticky-menu #adminmenuwrap {top:42px;}
+
+
+
+
+#adminmenuwrap, #adminmenu {
+background-color: #1a1a1a;
+}
