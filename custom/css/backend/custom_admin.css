@@ -308,6 +308,11 @@ height: 136px !important;
 
 }
 
+#wpadminbar #wp_noter #wp_noter_container #wp_noter_content #wp_noter_add_note form input {
+padding: 2px !important;
+width: 240px !important;
+}
+
 .js #dashboard_quick_press .drafts {
 border-top: 1px solid #eee;
 background-color: #fafafa;
