@@ -380,3 +380,8 @@ border-radius:3px;
 #dc_jqmegamenu_widget-3-item ul li .sub-container.non-mega li a {padding: 7px 5px 7px 22px; background: url(skins/images/arrow_off.png) no-repeat 7px 10px;}
 #dc_jqmegamenu_widget-3-item ul li .sub-container.non-mega li a:hover {color: #a32403; background: #efefef url(skins/images/arrow_on.png) no-repeat 7px 10px;}
 
+
+
+.wptn-slide.wptn-dir-left,
+.wptn-slide.wptn-dir-right,
+.wptn-slide {display:none !important;}
