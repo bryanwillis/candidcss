@@ -437,3 +437,9 @@ margin: 39px 90px 90px;
 }
 
 #wpcontent, #wpfooter {margin-left:90px; margin-right:90px;}
+
+
+#wpadminbar .quicklinks ul {
+text-align: left;
+margin-left: 50px;
+}
