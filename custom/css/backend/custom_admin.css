@@ -427,3 +427,11 @@ background-color: #1a1a1a;
 .quicklinks a, #wpadminbar .quicklinks .ab-empty-item, #wpadminbar .shortlink-input {
 line-height: 42px;
 }
+
+
+media="all"
+@media only screen and (min-width: 900px) {
+#wpcontent, #wpfooter {
+margin: 39px 90px 90px;
+}
+}
