@@ -458,3 +458,9 @@ line-height: 44px;
 #wpadminbar .quicklinks>ul>li>a {
 line-height: 43px;
 }
+
+
+
+#adminmenu {
+padding-left: 80px;
+}
