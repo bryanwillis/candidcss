@@ -403,3 +403,11 @@ media="all"
 .index-php .hndle {
 text-align: center;
 }
+
+
+
+#wpadminbar {
+background-image: -webkit-linear-gradient(top, #696969 0%,#3f3f3f 100%);
+background-color: #3f3f3f;
+height: 42px;
+}
