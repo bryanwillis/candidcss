@@ -397,3 +397,9 @@ media="all"
 media="all"
 @media only screen and (min-width: 900px)
 .wptn-slide {display:none !important;}
+
+
+
+.index-php .hndle {
+text-align: center;
+}
