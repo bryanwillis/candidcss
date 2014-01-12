@@ -454,3 +454,7 @@ html {background: url( 'http://s.c.lnkd.licdn.com/scds/common/u/images/themes/ka
 line-height: 44px;
 
 }
+
+#wpadminbar .quicklinks>ul>li>a {
+line-height: 43px;
+}
