@@ -421,3 +421,9 @@ height: 42px;
 #adminmenuwrap, #adminmenu {
 background-color: #1a1a1a;
 }
+
+
+
+.quicklinks a, #wpadminbar .quicklinks .ab-empty-item, #wpadminbar .shortlink-input {
+line-height: 42px;
+}
