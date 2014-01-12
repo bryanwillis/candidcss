@@ -300,7 +300,13 @@ float: right;
 width: 24.5% !important;
 }
 
+#wpadminbar #wp_noter #wp_noter_container #wp_noter_content #wp_noter_add_note form textarea {
+display: block;
+padding: 5px 10px;
+width: 450px !important;
+height: 136px !important;
 
+}
 
 .js #dashboard_quick_press .drafts {
 border-top: 1px solid #eee;
