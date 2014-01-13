@@ -21,3 +21,14 @@ Array
     [common_css_enabled] => on
     [common_css_path] => wp-content/custom/css/common
 )
+
+
+
+js
+
+jquery.highlight.js
+jquery.biscuit.js
+jquery.ui.nestedSortable.js
+jquery.client.js
+//wp  jquery-ui-sortable
+js/scripts.js
