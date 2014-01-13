@@ -454,9 +454,9 @@ line-height: 43px;
 
 
 
-#wpbody { padding-right: 80px !important; padding-left: 80px !important;
+#wpbody { padding:0px 80px 0px 80px;
 }
-#wp-toolbar { padding-right: 60px !important;  padding-left: 60px !important;
+#wp-toolbar { padding: 0px 60px 0px 60px;
 }
 
 
