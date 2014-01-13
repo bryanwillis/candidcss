@@ -516,10 +516,6 @@ width: 250px;
 
 
 
-#wpbody-content #dashboard-widgets.columns-3 #postbox-container-3, #wpbody-content #dashboard-widgets.columns-3 #postbox-container-4 {
-float: right;
-width: 49.5% !important;
-}
 
 
 /*
@@ -532,6 +528,10 @@ left:2.5px;}
 margin-right: 2%;
 }
 
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-3, #wpbody-content #dashboard-widgets.columns-3 #postbox-container-4 {
+float: right;
+width: 49.5% !important;
+}
 
 */
 
