@@ -540,7 +540,9 @@ width: 49.5% !important;
 
 
 
-
+#wpcontent, #wpfooter {
+margin: 48px 30px 30px;
+}
 
 
 .wp-admin.settings_page_adminimize-adminimize #poststuff .inside {
