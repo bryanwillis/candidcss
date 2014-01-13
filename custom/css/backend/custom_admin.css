@@ -512,11 +512,35 @@ width: 250px;
 
 .wp-admin #wpbody-content > .wrap {margin: 10px 2px 0 2px;}
 
+
+
+
+
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-3, #wpbody-content #dashboard-widgets.columns-3 #postbox-container-4 {
+float: right;
+width: 49.5% !important;
+}
+
+#column3-sortables .postbox {
+width: 48%;
+float: left;
+}
+
+#column3-sortables .postbox:nth-child(odd) {
+margin-right: 2%;
+}
+
+
+
+
+
+
+
+
+
 .wp-admin.settings_page_adminimize-adminimize #poststuff .inside {
 margin: 6px 0 0;
 overflow: hidden;
 overflow-x: scroll;
 }
-
-
 .wp-admin.settings_page_adminimize-adminimize #about {display:none !important;}
