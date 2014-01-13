@@ -472,11 +472,17 @@ max-width: 175px;
 
 
 
-.wp-admin.index-php #dashboard-widgets #profile_add_media_admin_widget .handlediv
+.wp-admin.index-php #dashboard-widgets #profile_add_media_admin_widget .handlediv {
+	display: none;
+}
 
-.wp-admin.index-php #profile_add_media_admin_widget h3.hndle
+.wp-admin.index-php #profile_add_media_admin_widget h3.hndle {
+	display: none;
+}
 
-.wp-admin.index-php #profile_add_media_admin_widget h3.hndle > span
+.wp-admin.index-php #profile_add_media_admin_widget h3.hndle > span {
+	display: none;
+}
 
 
 
