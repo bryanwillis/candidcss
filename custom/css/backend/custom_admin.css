@@ -578,20 +578,7 @@ overflow-x: scroll;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+body.wp-top-navigation-slider #adminmenu { position: fixed !important; left: 0; top: 0; margin-left: 0 !important; z-index: 1; }
 body.wp-top-navigation-slider #adminmenu {top:40px !important;}
 
 
