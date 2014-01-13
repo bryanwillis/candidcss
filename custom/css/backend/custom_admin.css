@@ -459,8 +459,41 @@ max-width: 175px;
 
 
 
-.drag-drop-inside p:nth-child(2)
-{
-background:#ff0000;
+/* BY EACH USER*/
+/* ADMIN-ROLE-PAGE*/
+.wp-admin.role-developer.index-php {}
+
+/* BY EACH COLUMN*/
+.wp-admin.index-php #postbox-container-1 {}
+.wp-admin.index-php #postbox-container-2 {}
+.wp-admin.index-php #postbox-container-3 {}
+.wp-admin.index-php #postbox-container-4 {}
+
+
+
+
+.wp-admin.index-php #dashboard-widgets #profile_add_media_admin_widget .handlediv
+
+.wp-admin.index-php #profile_add_media_admin_widget h3.hndle
+
+.wp-admin.index-php #profile_add_media_admin_widget h3.hndle > span
+
+
+
+.wp-admin.index-php #profile_add_media_admin_widget .drag-drop-inside p:nth-child(2) {
+margin-top: 116px;
 }
 
+.wp-admin.index-php #profile_add_media_admin_widget .drag-drop #drag-drop-area {
+	background-position-y: 75px;
+	height: 250px !important;
+}
+
+.wp-admin.index-php #profile_add_media_admin_widget .drag-drop .drag-drop-inside {
+margin: 27px auto 0;
+width: 250px;
+}
+
+.wp-admin.index-php #profile_add_media_admin_widget .drag-drop-inside p.drag-drop-info {
+	text-transform: uppercase;
+}
