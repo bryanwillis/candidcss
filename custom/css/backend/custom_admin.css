@@ -524,7 +524,7 @@ width: 49.5% !important;
 #column3-sortables .postbox {
 width: 48%;
 float: left;
-}
+left:5px;}
 
 #column3-sortables .postbox:nth-child(odd) {
 margin-right: 2%;
