@@ -540,9 +540,7 @@ width: 49.5% !important;
 
 
 @media only screen and (min-width: 900px) {
-#wpcontent, #wpfooter {
-margin: 47px 30px 30px !important;
-}
+
 }
 
 
@@ -612,6 +610,14 @@ overflow-x: scroll;
 		width: 100%;
 		float: none;
 	}
+
+
+body.wp-top-navigation-slider #wpcontent, #wpfooter {
+margin: 47px 30px 30px !important;
+}
+
+
+
 
 	body.wp-top-navigation-slider #adminmenuback {
 		background: transparent;
