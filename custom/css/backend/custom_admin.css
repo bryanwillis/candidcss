@@ -429,20 +429,9 @@ line-height: 42px;
 }
 
 
-media="all"
-@media only screen and (min-width: 900px) {
-#wpcontent, #wpfooter {
-margin: 39px 90px 90px;
-}
-}
-
-#wpcontent, #wpfooter {margin-left:90px; margin-right:90px;}
 
 
-#wpadminbar .quicklinks ul {
-text-align: left;
-margin-left: 50px;
-}
+
 
 
 html {background: url( 'http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/textures/texture_grain_200x200_v2.png' ) !important;}
@@ -461,6 +450,8 @@ line-height: 43px;
 
 
 
-#adminmenu {
-padding-left: 80px;
-}
+
+
+
+
+
