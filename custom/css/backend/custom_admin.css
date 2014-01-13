@@ -714,6 +714,7 @@ body.wp-top-navigation-slider #adminmenu {
 	}
 }
 
+body.wp-top-navigation-slider #wpbody-content > .wrap {margin: 10px 2px 0 2px;}
 
 
 
