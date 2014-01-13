@@ -480,7 +480,9 @@ max-width: 175px;
 
 
 
-
+.wp-admin.index-php .handlediv {
+	display: none;
+}
 
 
 .wp-admin.index-php #dashboard-widgets #profile_add_media_admin_widget .handlediv {
