@@ -459,8 +459,7 @@ max-width: 175px;
 
 
 
-
-p:nth-child(2)
+.drag-drop-inside p:nth-child(2)
 {
 background:#ff0000;
 }
