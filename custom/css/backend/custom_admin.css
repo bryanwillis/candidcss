@@ -712,6 +712,8 @@ body.wp-top-navigation-slider #adminmenu {
 body.wp-top-navigation-slider #wpbody-content > .wrap {margin: 10px 2px 0 2px;}
 
 
+body.wp-top-navigation-slider #wpbody {padding:0 80px;}
+body.wp-top-navigation-slider #wp-toolbar{padding:0 60px;}
 
 @media only screen and (min-width: 900px) {
 body.wp-top-navigation-slider #adminmenu {
