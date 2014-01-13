@@ -514,7 +514,8 @@ width: 250px;
 
 
 
-
+#wpbody-content #dashboard-widgets.columns-3 #postbox-container-3, #wpbody-content #dashboard-widgets.columns-3 #postbox-container-4
+{float:left !important;}
 
 
 
