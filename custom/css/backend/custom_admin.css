@@ -541,7 +541,7 @@ width: 49.5% !important;
 
 @media only screen and (min-width: 900px) {
 #wpcontent, #wpfooter {
-margin: 48px 30px 30px !important;
+margin: 47px 30px 30px !important;
 }
 }
 
@@ -549,7 +549,7 @@ margin: 48px 30px 30px !important;
 
 @media only screen and (min-width: 900px) {
 .sticky-menu #adminmenuwrap {
-top: 39px !important;
+top: 40px !important;
 }
 }
 
