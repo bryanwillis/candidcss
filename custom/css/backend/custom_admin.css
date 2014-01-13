@@ -510,7 +510,7 @@ width: 250px;
 }
 
 
-
+.wp-admin #wpbody-content > .wrap {margin: 10px 2px 0 2px;}
 
 .wp-admin.settings_page_adminimize-adminimize #poststuff .inside {
 margin: 6px 0 0;
