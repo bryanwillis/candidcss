@@ -546,6 +546,14 @@ margin: 48px 30px 30px !important;
 }
 
 
+
+@media only screen and (min-width: 900px) {
+.sticky-menu #adminmenuwrap {
+top: 39px !important;
+}
+}
+
+
 .wp-admin.settings_page_adminimize-adminimize #poststuff .inside {
 margin: 6px 0 0;
 overflow: hidden;
