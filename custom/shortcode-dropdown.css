@@ -1,0 +1,21 @@
+/**
+ * Plugin Name: ShortCode DropDown
+ * Description: ShortCode DropDown is an invaluable tool which enables authors to select the site's shortcodes from a dropdown box in WordPress's richtext editor.
+ * Version: 0.0
+ * Author: WPShowCase
+ * Author URI: http://www.wpshowcase.net
+ *
+ * ShortCodes DropDown is an invaluable tool that allows shortcodes to be selected from a dropdown menu
+ * which means that authors can see the shortcodes that are available and that do not need to
+ * memorize the names of shortcodes.
+ *
+ * @package ShortCodeDropDown
+ * @version 0.0.0
+ * @author WPShowCase <info@wpshowcase.net>
+ * @copyright Copyright (c) 2013, WPShowCase
+ * @license See license.txt
+ */
+ 
+ #content_shortcode_dropdown_text {
+	width:15px;
+}
