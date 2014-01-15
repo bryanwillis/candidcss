@@ -768,6 +768,7 @@ right: 30px;
 }
 /* USER TOOLBAR SUBMENU */
 
+body.wp-admin {top:10px;}
 
 
 /*
