@@ -768,8 +768,9 @@ right: 30px;
 }
 /* USER TOOLBAR SUBMENU */
 
-body.wp-admin {top:10px;}
-
+body.wp-admin {
+margin-top: 9px;
+}
 
 /*
 #wp-admin-bar-user-actions:after {
