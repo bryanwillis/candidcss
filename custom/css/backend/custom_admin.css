@@ -768,19 +768,10 @@ right: 30px;
 }
 /* USER TOOLBAR SUBMENU */
 
+
+
+/* BODY TOP FIX FROM TOOLBAR HEIGHT */
 body.wp-admin {
 margin-top: 9px;
 }
 
-/*
-#wp-admin-bar-user-actions:after {
-border: 6px solid transparent;
-border-bottom-color: #f5f5f5;
-content: ' ';
-height: 0;
-position: absolute;
-right: 7px;
-top: -12px;
-width: 0;
-}
-*/
