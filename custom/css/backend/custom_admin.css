@@ -793,7 +793,9 @@ display: none !important;
 
 }
 
-
+.user-role {
+text-transform: capitalize !important;
+}
 
 #wpadminbar #adminbarsearch {
 padding-top: 5px;
