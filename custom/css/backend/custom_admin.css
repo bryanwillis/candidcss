@@ -745,12 +745,27 @@ padding-top: 5px !important;}
 .ab-sub-wrapper {top: 42px !important;}
 
 
+/* USER TOOLBAR SUBMENU */
+#wpadminbar .menupop .ab-sub-wrapper {
+background: rgba(255,255,255,0.99);
+box-shadow: 0 0 2px rgba(0, 0, 0, 0.15), 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+#wpadminbar .menupop .ab-sub-wrapper:after {
+border: 6px solid transparent;
+border-bottom-color: #f5f5f5;
+content: ' ';
+height: 0;
+position: absolute;
+right: 7px;
+top: -12px;
+width: 0;
+}
+/* USER TOOLBAR SUBMENU */
 
 
 
-
-
-
+/*
 #wp-admin-bar-user-actions:after {
 border: 6px solid transparent;
 border-bottom-color: #f5f5f5;
@@ -761,3 +776,4 @@ right: 7px;
 top: -12px;
 width: 0;
 }
+*/
