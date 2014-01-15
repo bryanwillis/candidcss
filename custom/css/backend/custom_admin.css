@@ -763,6 +763,10 @@ width: 0;
 }
 
 
+body.wp-top-navigation-slider #adminmenu li:first-child {border-left:1px solid rgba(255,255,255,0.3);
+
+}
+
 body.wp-top-navigation-slider #adminmenu:first-child {border-left:1px solid rgba(255,255,255,0.3);
 
 }
