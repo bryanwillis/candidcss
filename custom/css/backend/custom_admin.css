@@ -775,3 +775,14 @@ body.wp-admin {
 margin-top: 9px;
 }
 
+
+
+body.wp-top-navigation-slider #adminmenu li.menu-top {
+border-right: 1px solid rgba(255,255,255,0.3);
+
+}
+
+body.wp-top-navigation-slider #adminmenu li.wp-menu-separator {
+display: none !important;
+
+}
