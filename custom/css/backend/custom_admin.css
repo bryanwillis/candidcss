@@ -763,6 +763,10 @@ width: 0;
 }
 
 
+#adminmenu:first-child {border-left:1px solid rgba(255,255,255,0.3);
+
+}
+
 #wp-admin-bar-top-secondary {
 right: 30px;
 }
