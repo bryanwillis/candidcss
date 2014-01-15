@@ -450,10 +450,12 @@ line-height: 43px;
 }
 */
 
+
+
 #wpadminbar, 
 #wp-toolbar,
 #wp-toolbar ul> li {height:42px;}
-#wp-toolbar ul> li {padding-top:5px;}
+#wp-toolbar ul> li {padding-top:5px; line-height:43px;}
 
 
 
