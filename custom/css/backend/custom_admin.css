@@ -452,7 +452,7 @@ line-height: 43px;
 
 #wpadminbar, 
 #wp-toolbar,
-#wp-toolbar>ul li {height:42px;}
+#wp-toolbar ul> li {height:42px;}
 
 
 
