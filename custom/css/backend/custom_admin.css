@@ -761,6 +761,11 @@ right: 7px;
 top: -12px;
 width: 0;
 }
+
+
+#wp-admin-bar-top-secondary {
+right: 30px;
+}
 /* USER TOOLBAR SUBMENU */
 
 
