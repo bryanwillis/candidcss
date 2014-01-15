@@ -792,3 +792,9 @@ body.wp-top-navigation-slider #adminmenu li.wp-menu-separator {
 display: none !important;
 
 }
+
+
+
+#wpadminbar #adminbarsearch {
+padding-top: 5px;
+}
