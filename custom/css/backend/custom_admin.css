@@ -815,3 +815,9 @@ background-color: #111;}
 ul#adminmenu a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:hover:after {
 border-right-color: #333;
 }
+
+
+
+
+#adminmenu #menu-pages .wp-submenu a
+{padding-left:;}
