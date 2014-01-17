@@ -797,3 +797,7 @@ border-right-color: #333;
 }
 #adminmenu #menu-pages .wp-submenu a
 {padding-left:8px;}
+
+
+
+#adminmenu li .wp-submenu ul.admin-menu-tree-page-tree li div>a {padding-left:19px !important;}
