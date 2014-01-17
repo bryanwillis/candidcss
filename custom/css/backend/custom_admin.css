@@ -801,11 +801,6 @@ padding: 6px 14px 0;
 }
 
 
-#adminmenu #menu-pages li.wp-has-submenu.wp-not-current-submenu.open-sub {
-
-padding: 6px 14px 0;
-}
-
 
 #adminmenu #menu-pages li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu #menu-pages li>a.menu-top:focus {
 background-color: #111;}
