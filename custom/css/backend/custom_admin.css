@@ -801,4 +801,17 @@ padding: 6px 14px 0;
 }
 
 
+#adminmenu li.wp-has-submenu.wp-not-current-submenu.open-sub {
 
+padding: 6px 14px 0;
+}
+
+
+#adminmenu #menu-pages li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu #menu-pages li>a.menu-top:focus {
+background-color: #111;}
+
+
+
+ul#adminmenu a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:hover:after {
+border-right-color: #333;
+}
