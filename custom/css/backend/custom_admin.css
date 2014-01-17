@@ -801,7 +801,7 @@ padding: 6px 14px 0;
 }
 
 
-#adminmenu li.wp-has-submenu.wp-not-current-submenu.open-sub {
+#adminmenu #menu-pages li.wp-has-submenu.wp-not-current-submenu.open-sub {
 
 padding: 6px 14px 0;
 }
