@@ -772,13 +772,23 @@ background: #0074a2 !important;
 }
 
 
-ul#adminmenu #menu-pages a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after {
-border-right: none;
+ul#adminmenu #menu-pages a.wp-has-current-submenu:focus, ul#adminmenu>li.current>a.current:focus {
+border-right: inherit;
+
 }
 
-
+ul#adminmenu #menu-pages a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after {
+border-right: ;
+}
 
 #adminmenu #menu-pages.wp-menu-open.menu-top .wp-submenu a {
 
 padding: 6px 14px 0;
 }
+
+
+
+
+
+
+
