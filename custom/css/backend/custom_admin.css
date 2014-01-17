@@ -770,3 +770,9 @@ padding-top: 5px;
 #menu-pages.wp-menu-open.menu-top {
 background: #0074a2 !important;
 }
+
+
+ul#adminmenu #menu-pages a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after {
+background: url('http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/textures/texture_grain_200x200_v2.png' ) !important;
+border-right: solid transparent;
+}
