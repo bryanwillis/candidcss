@@ -778,7 +778,7 @@ border-right: none;
 
 
 
-#adminmenu #menu-pages .wp-submenu a {
+#adminmenu #menu-pages.wp-menu-open.menu-top .wp-submenu a {
 
 padding: 6px 14px 0;
 }
