@@ -764,3 +764,9 @@ text-transform: capitalize !important;
 #wpadminbar #adminbarsearch {
 padding-top: 5px;
 }
+
+
+/* Pages Admin Dropdown Tree */
+#adminmenu #menu-pages.wp-menu-open menu-top {
+background: #0074a2 !important;
+}
