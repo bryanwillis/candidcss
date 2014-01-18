@@ -817,7 +817,7 @@ border-right-color: #333;
 /* ADMIN TOOLBAR USER SUBMENU */
 #wp-admin-bar-my-account-default {
 border-top: 1px solid #ddd;
-background: #f5f5f5 !important;
+background-color: #f5f5f5 !important;
 }
 
 
