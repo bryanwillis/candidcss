@@ -371,13 +371,13 @@ text-align: center;
 }
 
 
-/*
+
 #wpadminbar {
 background-image: -webkit-linear-gradient(top, #696969 0%,#3f3f3f 100%) !important;
 background-color: #3f3f3f !important;
 height: 42px;
 }
-*/
+
 
 .sticky-menu #adminmenuwrap {top:42px;}
 
