@@ -832,3 +832,9 @@ color: rgb(85, 85, 85);
 #wp-admin-bar-user-actions a {
 color: #0074a2 !important;
 }
+
+
+
+#wp-admin-bar-user-actions .display-name {
+font-size: 15px;
+}
