@@ -1,0 +1,55 @@
+
+
+/*Menu Icon*/
+#toplevel_page_snippets > a > div.wp-menu-image:before {
+content: '\f132';
+}
+
+
+
+
+#adminmenu li.menu-top a.menu-top > .wp-menu-image img
+{display: none !important;}
+#adminmenu li.menu-top a.menu-top > .wp-menu-image
+{background: none !important;}
+#adminmenu li.menu-top a.menu-top 
+{box-shadow: none !important; -webkit-box-shadow: none !important;}
+/*Welcome Close*/
+.welcome-panel-close {display:none !important;}
+
+
+
+/* Pages Admin Dropdown Tree */
+#menu-pages.wp-menu-open.menu-top {
+background: #0074a2 !important;
+}
+ul#adminmenu #menu-pages a.wp-has-current-submenu:focus, ul#adminmenu>li.current>a.current:focus {
+border-right: inherit;
+background-color:#333;
+border-color:#333;
+}
+ul#adminmenu #menu-pages a.wp-has-current-submenu.wp-menu-open:focus, ul#adminmenu>li.current>a.current:focus {
+border-right: inherit;
+background-color:#333;
+border-color:#333;
+}
+ul#adminmenu #menu-pages a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after {
+border-right: ;
+}
+#adminmenu #menu-pages.wp-menu-open.menu-top .wp-submenu a {
+padding: 6px 14px 0;
+}
+#adminmenu li.wp-has-submenu.wp-not-current-submenu.open-sub:hover:after {
+padding: 6px 14px 0;
+}
+#adminmenu #menu-pages li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu #menu-pages li>a.menu-top:focus {
+background-color: #111;
+}
+ul#adminmenu a.wp-has-current-submenu:hover:after, ul#adminmenu>li.current>a.current:hover:after {
+border-right-color: #333;
+}
+#adminmenu #menu-pages .wp-submenu a
+{padding-left:8px;}
+#adminmenu li .wp-submenu ul.admin-menu-tree-page-tree li div>a {padding-left:19px !important;}
+/* Pages Admin Dropdown Tree */
+
