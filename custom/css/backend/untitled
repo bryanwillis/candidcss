@@ -1,0 +1,70 @@
+
+.wp-admin.settings_page_widgets_view_custom DIV[id="wpfooter"]:nth-child(5),
+.wp-admin.settings_page_widgets_view_custom #postbox-container-2:nth-child(2),
+.wp-admin.settings_page_widgets_view_custom [id="postbox-container-1"]:nth-child(1)>P:nth-child(6),
+.wp-admin.settings_page_widgets_view_custom [id="postbox-container-1"]:nth-child(1)>P:nth-child(5) {
+display:none;
+}
+
+
+.wp-not-current-submenu.toplevel_page_my-shortcodes
+{box-shadow: none !important; -webkit-box-shadow: none !important;}
+
+
+
+
+.settings_page_codepress-admin-columns .cta {display: none;}
+.settings_page_codepress-admin-columns #plugin-support {display: none;}
+
+
+
+
+
+
+ #content_shortcode_dropdown_text {
+	width:15px;
+}
+
+
+
+
+.plugin-details {display:none;}
+
+
+
+
+
+
+.wp-admin.index-php .su-tabs {
+margin: 0px !important;}
+
+
+
+
+
+/*Notes*/
+
+#wpadminbar #wp_noter #wp_noter_container #wp_noter_content #wp_noter_add_note form textarea {
+display: block;
+padding: 5px 10px;
+width: 450px !important;
+height: 136px !important;
+
+}
+
+#wpadminbar #wp_noter #wp_noter_container #wp_noter_content #wp_noter_add_note form input {
+padding: 2px !important;
+width: 240px !important;
+}
+
+
+
+
+
+
+/*ADMIN OMNISEARCH PAGE*/
+.wp-admin.admin_page_search:not(.role-administrator) a[href="#result-comments"],
+.wp-admin.admin_page_search:not(.role-administrator) #result-comments,
+.wp-admin.admin_page_search:not(.role-administrator) #result-plugins {
+	display:none !important;
+}
