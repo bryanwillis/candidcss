@@ -1,0 +1,133 @@
+
+
+/* BODY TOP FIX FROM TOOLBAR HEIGHT */
+body.wp-admin {
+margin-top: 9px;
+}
+
+
+
+/*Toolbar Icon*/
+
+#wpadminbar #wp-admin-bar-my-item .ab-icon:before {
+content: '\f132';
+}
+
+
+
+.sticky-menu #adminmenuwrap {top:42px;}
+
+
+.quicklinks a, #wpadminbar .quicklinks .ab-empty-item, #wpadminbar .shortlink-input {
+line-height: 42px;
+}
+
+
+
+
+
+/*Toolbar Search*/
+#wp-admin-bar-candid-adminsearch .ab-item.ab-empty-item, #wp-admin-bar-candid-adminsearch .ab-item.ab-empty-item:hover {
+background: rgba(68, 68, 68, 0) !important;
+}
+
+
+
+/*
+#wpadminbar #adminbarsearch {
+line-height: 44px;
+
+}
+
+#wpadminbar .quicklinks>ul>li>a {
+line-height: 43px;
+}
+*/
+
+#wpadminbar #adminbarsearch:before {top: 11px !important;}
+#wpadminbar #adminbarsearch:before {
+color: #D61010 !important;
+}
+
+
+#wpadminbar #adminbarsearch {
+padding-top: 5px;
+}
+/*Toolbar Search*/
+
+
+
+
+
+
+
+/*Toolbar Logo*/
+
+#wp-admin-bar-candid-site-name .avatar.avatar-64.photo {
+border-color: #FFFFFF;
+background-color: #FFFFFF !important;
+border: 1px solid #888 !important;
+vertical-align: middle;
+display: inline;
+margin-top: -4px;
+max-width: 25px !important;
+border-radius:3px;
+}
+
+
+
+/* ADMIN TOOLBAR USER SUBMENU */
+#wp-admin-bar-my-account-default {
+border-top: 1px solid #ddd;
+background-color: #f5f5f5 !important;
+}
+#wp-admin-bar-user-actions .display-name {
+color: rgb(85, 85, 85);
+}
+#wp-admin-bar-edit-profile a {color:#0074a2;}
+#wp-admin-bar-logout .ab-item a {
+	color:#f5f5f5;}  
+#wp-admin-bar-user-actions a {
+color: #0074a2 !important;
+}
+#wp-admin-bar-user-actions .display-name {
+font-size: 15px;
+
+.user-role {
+text-transform: capitalize !important;
+}
+
+#wp-admin-bar-top-secondary {
+right: 30px;
+}
+
+
+
+/* ADMIN TOOLBAR USER SUBMENU */
+
+
+
+#wpadminbar, 
+#wp-toolbar,
+#wp-toolbar>ul>li {height:42px !important;}
+#wp-toolbar> ul> li> a {height: 37px !important;
+padding-top: 5px !important;}
+.ab-sub-wrapper {top: 42px !important;}
+
+
+/* USER TOOLBAR SUBMENU */
+#wpadminbar .menupop .ab-sub-wrapper {
+background: rgba(255,255,255,0.99);
+box-shadow: 0 0 2px rgba(0, 0, 0, 0.15), 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+#wpadminbar #wp-admin-bar-my-account.menupop .ab-sub-wrapper:after {
+border: 6px solid transparent;
+border-bottom-color: #f5f5f5;
+content: ' ';
+height: 0;
+position: absolute;
+right: 7px;
+top: -12px;
+width: 0;
+}
