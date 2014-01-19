@@ -1,0 +1,163 @@
+
+
+@media only screen and (min-width: 900px) {
+
+}
+
+@media only screen and (min-width: 900px) {
+
+body.wp-top-navigation-slider.sticky-menu #adminmenuwrap {
+top: 40px !important;
+}
+}
+
+
+body.wp-top-navigation-slider #adminmenu { position: fixed !important; left: 0; top: 0; margin-left: 0; z-index: 1; }
+body.wp-top-navigation-slider #adminmenu {top:40px !important;}
+
+
+@media only screen and (min-width: 900px){
+
+	body.wp-top-navigation-slider #adminmenuback,
+	body.wp-top-navigation-slider #adminmenuwrap, 
+	body.wp-top-navigation-slider #adminmenu, 
+	body.wp-top-navigation-slider #adminmenu .wp-submenu {
+		width: 100%;
+		float: none;
+	}
+
+
+body.wp-top-navigation-slider #wpcontent {
+margin: 47px 30px 30px !important;
+}
+
+
+
+
+	body.wp-top-navigation-slider #adminmenuback {
+		background: transparent;
+	}
+
+body.wp-top-navigation-slider #adminmenu {
+		margin: 0;
+		letter-spacing: -3px;
+	}
+	body.wp-top-navigation-slider #adminmenu li.menu-top {
+		min-height: 0;
+		display: inline-block;
+		zoom: 1; *display: inline;
+		vertical-align: top;
+		letter-spacing: normal;
+	}
+	body.wp-top-navigation-slider #adminmenu div.wp-menu-image {
+		display: none;
+	}
+	body.wp-top-navigation-slider #adminmenu li.wp-menu-separator{
+		width: 1px;
+		padding: 0;
+		display: inline-block;
+		zoom: 1; *display: inline;
+		vertical-align: top;
+		border-width: 0;
+	}
+	body.wp-top-navigation-slider #adminmenu div.separator {
+		height: 38px;
+		padding: 0;
+		border-width: 0;
+		background: white;
+		background: rgba(255,255,255,0.3);
+	}
+	body.wp-top-navigation-slider #adminmenu a.menu-top, 
+	body.wp-top-navigation-slider #adminmenu .wp-submenu-head {
+		padding: 10px;
+	}
+	body.wp-top-navigation-slider #adminmenu div.wp-menu-name {
+		padding: 0;
+	}
+	body.wp-top-navigation-slider #adminmenu #collapse-menu {
+		display: none;
+	}
+	body.wp-top-navigation-slider #adminmenu .wp-submenu {
+		display: none;
+		left: 0; top: 100%;
+	}
+	body.wp-top-navigation-slider #adminmenu li.menu-top:hover .wp-submenu {
+		display: block;
+	}
+	body.wp-top-navigation-slider #adminmenu .wp-submenu li {
+		white-space: nowrap;
+	}
+
+	body.wp-top-navigation-slider ul#adminmenu a.wp-has-current-submenu:after,
+	body.wp-top-navigation-slider ul#adminmenu > li.current > a.current:after {
+		display: none;
+	}
+
+
+	body.wp-top-navigation-slider #adminmenu .wp-has-current-submenu .wp-submenu,
+	body.wp-top-navigation-slider .no-js li.wp-has-current-submenu:hover .wp-submenu,
+	body.wp-top-navigation-slider #adminmenu a.wp-has-current-submenu:focus + .wp-submenu,
+	body.wp-top-navigation-slider #adminmenu .wp-has-current-submenu .wp-submenu.sub-open,
+	body.wp-top-navigation-slider #adminmenu .wp-has-current-submenu.opensub .wp-submenu {
+		width: auto;
+		position: absolute;
+	}
+}
+
+
+
+	@media only screen and (min-width: 900px){
+	
+
+	
+	body.wp-top-navigation-slider #adminmenu {
+		width: 99999px;
+		padding: 0px 50px;
+		position: relative;
+	}
+
+	body.wp-top-navigation-slider .wptn-slide.wptn-dir-left {
+		left: 0;
+	}
+	body.wp-top-navigation-slider .wptn-slide.wptn-dir-right {
+		right: 0;
+	}
+	body.wp-top-navigation-slider .wptn-slide.wptn-dir-left.shadow {
+		box-shadow: 5px 0 10px rgba(0,0,0,0.1);
+	}
+	body.wp-top-navigation-slider .wptn-slide.wptn-dir-right.shadow {
+		box-shadow: -5px 0 10px rgba(0,0,0,0.1);
+	}
+}
+
+body.wp-top-navigation-slider #wpbody-content > .wrap {margin: 10px 2px 0 2px;}
+
+
+body.wp-top-navigation-slider #wpbody {padding:0 80px;}
+body.wp-top-navigation-slider #wp-toolbar{padding:0 60px;}
+
+@media only screen and (min-width: 900px) {
+body.wp-top-navigation-slider #adminmenu {
+margin: 0;
+letter-spacing: -3px;
+text-align: left;
+padding-left: 50px;
+}
+
+
+ }
+
+body.wp-top-navigation-slider #adminmenu li:first-child {border-left:1px solid rgba(255,255,255,0.3);
+
+}
+
+
+body.wp-top-navigation-slider #adminmenu li.menu-top {
+border-right: 1px solid rgba(255,255,255,0.3);
+
+}
+
+body.wp-top-navigation-slider #adminmenu li.wp-menu-separator {
+display: none !important;
+
+}
