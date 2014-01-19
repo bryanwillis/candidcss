@@ -566,7 +566,7 @@ body.wp-top-navigation-slider #adminmenu {top:40px !important;}
 	}
 
 
-body.wp-top-navigation-slider #wpcontent, #wpfooter {
+body.wp-top-navigation-slider #wpcontent {
 margin: 47px 30px 30px !important;
 }
 
@@ -738,7 +738,6 @@ body.wp-top-navigation-slider #adminmenu li:first-child {border-left:1px solid r
 #wp-admin-bar-top-secondary {
 right: 30px;
 }
-/* USER TOOLBAR SUBMENU */
 
 
 
@@ -820,22 +819,35 @@ border-right-color: #333;
 border-top: 1px solid #ddd;
 background-color: #f5f5f5 !important;
 }
-
-
 #wp-admin-bar-user-actions .display-name {
 color: rgb(85, 85, 85);
 }
 #wp-admin-bar-edit-profile a {color:#0074a2;}
-
-
-#wp-admin-bar-logout .ab-item a {color:#f5f5f5;}  
-
+#wp-admin-bar-logout .ab-item a {
+	color:#f5f5f5;}  
 #wp-admin-bar-user-actions a {
 color: #0074a2 !important;
 }
-
-
-
 #wp-admin-bar-user-actions .display-name {
 font-size: 15px;
+/* ADMIN TOOLBAR USER SUBMENU */
+
+
+
+
+
+
+
+
+
+#right-log .postbox .inside > strong, 
+#right-log .postbox .inside > #time_zone {
+display: none; !important;
+}
+.ib-tools wpib {display:none !important;}
+
+#hdtbl-1 {top:42px !important;}
+
+#instantButlerDialog .ib-whitearea .ib-tools {
+display: none !important;}
 }
