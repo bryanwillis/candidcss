@@ -1,3 +1,19 @@
+/*Admin Menus Switch*/
+
+.wptn-slide.wptn-dir-left,
+.wptn-slide.wptn-dir-right,
+.wptn-slide {display:none !important;}
+
+
+media="all"
+@media only screen and (min-width: 900px)
+.wptn-slide.wptn-dir-right  {display:none !important;}
+
+
+media="all"
+@media only screen and (min-width: 900px)
+.wptn-slide {display:none !important;}
+
 
 
 @media only screen and (min-width: 900px) {
