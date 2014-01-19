@@ -1,0 +1,16 @@
+/* Nav Icons */
+.icon-linkedin-sign:before {
+color: rgb(24, 114, 197);
+}
+.icon-twitter:before {
+color: rgb(63, 197, 223);
+}
+.icon-facebook:before {
+color: rgb(19, 90, 197)
+}
+.icon-google-plus-sign:before {
+color: red;
+}
+.icon-facebook-sign:before {
+color: rgb(43, 71, 214);
+}
