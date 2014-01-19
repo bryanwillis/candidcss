@@ -1,5 +1,10 @@
 
 
+#wpadminbar {
+height: 42px;
+}
+
+
 /* BODY TOP FIX FROM TOOLBAR HEIGHT */
 body.wp-admin {
 margin-top: 9px;
