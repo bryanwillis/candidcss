@@ -3,6 +3,41 @@
 #wpadminbar {
 height: 42px;
 }
+#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar>a img {
+width: 16px;
+height: 16px;
+padding: 0;
+border: 1px solid #888;
+background: #eee;
+line-height: 24px;
+vertical-align: middle;
+margin: -4px 0 0 6px;
+float: none;
+display: inline;
+}
+#wp-toolbar> ul> li> a {
+height: 37px !important;
+padding-top: 5px !important;
+}
+
+#wpadminbar, #wp-toolbar, #wp-toolbar>ul>li {
+height: 42px !important;
+}
+
+#wp-admin-bar-top-secondary {
+right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* BODY TOP FIX FROM TOOLBAR HEIGHT */
