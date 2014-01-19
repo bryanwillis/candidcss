@@ -33,6 +33,29 @@ display:none;
 
 
 
+.wp-admin.settings_page_adminimize-adminimize #poststuff .inside {
+margin: 6px 0 0;
+overflow: hidden;
+overflow-x: scroll;
+}
+.wp-admin.settings_page_adminimize-adminimize #about {display:none !important;}
+
+
+
+
+
+
+#right-log .postbox .inside > strong, 
+#right-log .postbox .inside > #time_zone {
+display: none; !important;
+}
+.ib-tools wpib {display:none !important;}
+
+#hdtbl-1 {top:42px !important;}
+
+#instantButlerDialog .ib-whitearea .ib-tools {
+display: none !important;}
+}
 
 
 .wp-admin.index-php .su-tabs {
@@ -40,6 +63,10 @@ margin: 0px !important;}
 
 
 
+
+#dws_dashboard_widget_shortcodes-ultimate-2 .handlediv,
+#dws_dashboard_widget_shortcodes-ultimate-2 .hndle
+{display:none !important;}
 
 
 /*Notes*/
