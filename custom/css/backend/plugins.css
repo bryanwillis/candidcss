@@ -51,7 +51,10 @@ display: none; !important;
 }
 .ib-tools wpib {display:none !important;}
 
+
+/*Admin Table Sticky
 #hdtbl-1 {top:42px !important;}
+*/
 
 #instantButlerDialog .ib-whitearea .ib-tools {
 display: none !important;}
